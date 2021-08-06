@@ -1,3 +1,3 @@
-from function import user
+from lib import user
 
 user()
